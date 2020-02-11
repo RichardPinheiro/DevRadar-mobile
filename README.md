@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Dvelopers radar backend API
+  Dvelopers radar mobile
 </h4>
 
 <p align="center">
